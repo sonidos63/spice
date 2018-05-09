@@ -1,2 +1,2 @@
 # spice
-Spice schematics
+Spice schematics for electronics projects
